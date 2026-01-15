@@ -1,11 +1,11 @@
 # Important Notes
 This is a guide to set this bot manager up. The version is discord.js v13.4.0. It took me a ton of time and dedication. There might be bugs so make sure to fix them. This bot was made at the start of 2022 that's why its not the best!
 
-Disclaimer: This project is 2 years old, it will be bugged and hard to set up. 
+Disclaimer: This project was made in 2022, it will be bugged and harder to set up due to discord.js upgrades and deprecated functions. 
 
-# Installation  Guide 🔥
+# Installation  Guide 
 
-## ✅ Hosting Requirements
+## Hosting Requirements
 
 <details>
   <summary>Click to expand</summary>
@@ -15,7 +15,7 @@ Disclaimer: This project is 2 years old, it will be bugged and hard to set up.
 
 </details>
 
-## 🤖 Bot Requirements
+## Bot Requirements
 
 <details>
   <summary>Click to expand</summary>
@@ -27,7 +27,7 @@ Disclaimer: This project is 2 years old, it will be bugged and hard to set up.
 </details>
 
 
-## 🤖 Configuration and Starting
+## Configuration and Starting
 
 <details>
   <summary>Click to expand</summary>
@@ -42,17 +42,17 @@ Disclaimer: This project is 2 years old, it will be bugged and hard to set up.
 </details>
 
 
-## 📝 Credits
+## Credits
 
 <details>
 <summary>Click to expand!</summary>
 
-**This bot was made by simple.dev with some help of my dear friend audiro.**
+**This bot was made by vlaair with some help of my dear friend audiro.**
 
 Our Discord:
-> `simplyadev`
+> `vlaair`
 > `audiro`
 
 **NOTE: You must have/keep credits in the help command saying the following:**
-Bot made by simple.dev & audiro
+Bot made by vlaair & audiro
 </details>
